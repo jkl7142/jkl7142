@@ -1,8 +1,8 @@
-### :seedling: Jr. Game Server Programmer
+### :seedling: Jr. Game Programmer
 
 - **Interest**
   * c++ IOCP server with Unreal Engine 4
-  * Event-Driven Architecture
+  * Session-Based Multiplayer game
 
 - **Skills**
 
